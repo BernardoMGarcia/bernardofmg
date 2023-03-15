@@ -1,13 +1,12 @@
 .cabecalho
-(
+{
     background: color
-    color: 
-
-)
-.imagem(
+    cornflowerblue }
+{
+    .imagem
     width: 20%;
-)
-.lista(
+}
+.lista{
 display: inline-block;
 margin: 0 16px;
-)
+}
