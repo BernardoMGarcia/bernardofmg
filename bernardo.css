@@ -4,6 +4,7 @@
 }
 .imagem{
     width: 20px;
+    background-image: linear-gradient(aqua);
 }
 p {
     font-size: 18px
