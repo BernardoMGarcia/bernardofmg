@@ -2,20 +2,8 @@
 {
     background-color: aqua;
 }
-.imagem{
-    width: 20px;
-    background-image: linear-gradient(aqua);
+h1 {
+    
 }
-p {
-    font-size: 18px
-}
-.paragrafo1 {
- font-size:30px
-}
-.paragrafos {
-    font-size: 16px
-}
-.lista {
-    display: inline-block;
-    margin: 0 16px
-}
+
+
